@@ -1,0 +1,6 @@
+asgiref==3.2.10
+Django==3.1
+django-environ==0.4.5  # https://github.com/joke2k/django-environ
+psycopg2-binary==2.8.4
+pytz==2020.1
+sqlparse==0.3.1
